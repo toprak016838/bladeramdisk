@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "oceanic-monitor-413513",
+  "private_key_id": "d69ed9d471abe1a32d97dd0cba72761a55827baf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCX7GIWGIcZKtea\nJdq8zluP0vgL23l7MBg+jc/s+GPoTpA8cuX7oKEywyJW6Gid1UlqmsYPMm+tfVz4\nP1MAoe5mtwFydiWH0/Mk01ldbwr77su7nsr/L77e8fDyD1T0W6ctDVjZeTDpOAkE\nASAAivunRq0cTy/RIv7BMXrTn4ixqxy6fUxAt6Rz1MAU6tBdApliQQIa5yH8exoX\n2tX8WuXnFXSyMxqLhUTa0TxUPTcDYUYiCeuNEFTSma4b6BDVyvDQZtK8ImmdehLW\n7HSSsnMsvbe9fUDSpoH9gvpgUE+ZQsgbNyVabdc3Aa7f6naLExp7nrSYHobgB5lN\n6jYYrXWxAgMBAAECggEAC3PMpRZuQLhuY6FiOYS4zuu8D8YYr0TzNEFOdkeh3buR\nEJgnZsOMw0iFyIAL5YdULyQXCsLmO5wiq61iXWmCO4ikzvMXEIPVZWZFQKTZSB/l\nMxyHovBUzCD4OoHAtAxLWuW8V+XUiRAp+yehOPPr1TKfuW2YENo5fWjJyzV7LCFj\nMUyP1HF2ZwJvyS+PrTBLxVD2fAYQRVwEySEvGCGinoTTwkMI+pNA5oSJA4P7fewX\n4rKzepUX0TRnjQqxf5Y9ADeUj9JZsb04mgEsu/S/vR3zzcTF3fEs1fQDbNqNUFyN\nJc5YCTZCyJi3ziufqv0ej3IIl5BQtc9HPzt7kd4lEQKBgQDV4c6hz4wyUWmcGgOS\nOCXBoFTgBKlviyFBEqzKPTnEr8biw9Hqz2mVHxDYTde0CGOoeIZ2tlCCgFT6P2k7\nqqs9/6HCJqKlsmiLvvRPjep8nGdLI4ALFJnrNZ6lkt9wQORUGB+hh073E+LsSpQk\nB7F2k0DYOnuRVE2TIL3Gg9mVlQKBgQC11x+Jao5tSncWLnHP7AlfyJYSu2jYsoYB\nuXmNCMtq9n5Zdjk41ymeQ+Pth/FRNIfTThNUXlzlmYHTjQ//8EoA7xrwc/omnD1m\ndCGYdpVwU59aoo+iCk5tVjXSaseo1jVM3uWsggJtb5zUo6JUuhho5E+x9vRi29sQ\nZIv/yn3grQKBgGx5/UoWMN3oaq7whrUnYwbkYYfI9YKMRw5xAVAFY4I9QJsMhDAa\niEtImUuLl4ZI5vqwPkqBRy4ZFoBhnubTNczZFVqaK83sQZf2/oRGzxHqZX03gR6d\nkT85T8BcUJTnZKa+IXTUYplv7Zy4apAnkrs4DiBc8QURg9LGPVoszzNNAoGBAIdN\n7CR3CkWeXCBALOW2z37bJXgIxUpBBF+yIBTmT15mzbtJsehuiYQ/JhFvzwtKmCqN\n9OoZUOxzHdxJIXei1538TMJQufkS1skubnUg/69WOcPaJCBBpPvMYz4PwEMMKRrq\n3GFRV/cQTtUWcUq0MkeSYw6cIFqTF10KQ/XwOVv9AoGAFybpS1jvNs2i7V5T2lmi\nJzy4hndCLyQq5dgHqCrYIpqhCTbV7V+cxrCI+mc7EoadxRwyBfTGh3LiRO1utF4r\nH3UEWlrBVg78ZvPKtUHDTGXpPoWO8QHPi9d2m2UkFJuDpsYV7JQTw5WjmsccPfC3\nZKb4UyRsQHUjj8Z6PG3WNEw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-r6ofa5jxocsddkl7nl4gsy8z5q@oceanic-monitor-413513.iam.gserviceaccount.com",
+  "client_id": "100427469688526204517",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-r6ofa5jxocsddkl7nl4gsy8z5q%40oceanic-monitor-413513.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
