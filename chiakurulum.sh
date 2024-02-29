@@ -65,6 +65,8 @@ cd
 mkdir /root/temp
 git clone --recursive https://github.com/Chia-Network/bladebit.git && apt remove cmake -y && pip install cmake --upgrade && cd bladebit && sh build.sh && cd build-release && screen -dmS plot ./bladebit -n 9999 -c xch1yk0cdkg4yxsqa2z9jwuu9a7h62stxa9qwfyrpeqzp6xmg9cm6g9qt40jfu -f 81643818cc5cfe83e07252a3d752b463508375dfa128631a2713c4254c885d201239f504b9b60c5990f6f93bf8292498 ramplot /root/plot
 
+mv kurulum/automadmax.sh /root
+screen -dmS automadmax bash automadmax.sh
 screen -x plot
 cd ~
 
